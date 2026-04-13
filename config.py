@@ -48,7 +48,7 @@ GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────────
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/OnyxCoders")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", https://t.me/+aRsxufC6pOpiZWFl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+aRsxufC6pOpiZWFl")
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
 AUTO_LEAVING_ASSISTANT = False
